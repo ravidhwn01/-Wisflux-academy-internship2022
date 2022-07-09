@@ -1,1 +1,40 @@
+nav ul {
+    list-style: none;
+    font-size: 20px;
+  }
 
+
+  nav ul li a {
+
+    text-decoration: none;
+  }
+
+ #navbar {
+    width:19%;
+    height: 100%;
+    overflow: hidden;
+    position: fixed;
+    border-right: 3px solid black;
+    
+    background-color: white;
+
+  }
+  
+
+  .container{
+    width: 80%;
+    height: auto;
+    float: right;
+   
+    margin: 4px;
+    padding: 6px;
+    
+  }
+
+  .heading{
+   background-color: rgb(28, 5, 119);
+   color: white;
+  }
+  .container p{
+    padding: 14px;
+  }
